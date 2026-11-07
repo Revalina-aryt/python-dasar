@@ -14,7 +14,3 @@ celciusb = kelvinb - 273
 print("suhu dalam celciusb",celciusb,"celciusb")
 fahrenheitb = ((9/5) * celciusb) + 32
 print("suhu dalam fahrenheitb",fahrenheitb,"fahrenheitb")
-
-
-
-
